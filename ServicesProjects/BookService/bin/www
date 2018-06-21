@@ -1,0 +1,27 @@
+let thrift = require("thrift");
+let bookServiceApi = require('../api/BookService');
+let BookServiceImpl = require('../BookServiceImpl');
+let ServiceImplementor = require('../util/ServiceImplemter');
+let DBUtil = require('../util/DB');
+let logger = require('../util/Logger');
+let envConf = require('../conf/env.json')
+
+
+
+let server = thrift.createServer( bookServiceApi, ServiceImplementor.use(BookServiceImpl));
+
+server.on('error', e=>{
+    logger.error('Server error',e);
+});
+
+
+DBUtil.connect().then( success =>{
+    server.listen(envConf.port);
+    logger.info('Service started at : '+envConf.port);
+}).catch( err=>{
+    logger.error("Error in starting Service",err);
+});
+
+
+
+

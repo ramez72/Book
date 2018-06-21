@@ -1,0 +1,7 @@
+{
+    "name" : "User Service",
+    "url": "localhost",
+    "port": 7870,
+    "minConnections" : 2,
+    "maxConnections" : 100
+}

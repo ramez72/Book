@@ -1,0 +1,7 @@
+{
+    "name": "Book Service",
+    "url": "localhost",
+    "port": 7871,
+    "minConnections" : 2,
+    "maxConnections" : 100
+}

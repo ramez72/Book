@@ -1,0 +1,130 @@
+2018-06-17T11:06:42.949Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T11:06:42.950Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T11:06:54.495Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T11:06:54.500Z - debug: result true
+2018-06-17T11:07:41.982Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T11:07:41.983Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T11:08:03.518Z - info: Service started at : 7870
+2018-06-17T11:08:12.827Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T11:08:12.840Z - debug: result true
+2018-06-17T11:09:38.218Z - info: Service started at : 7870
+2018-06-17T11:10:08.386Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T11:10:08.404Z - debug: result true
+2018-06-17T11:10:23.048Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T11:10:23.052Z - debug: result true
+2018-06-17T11:10:23.237Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T11:10:23.241Z - debug: result true
+2018-06-17T11:10:23.457Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T11:10:24.249Z - debug: result true
+2018-06-17T14:15:17.881Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T14:15:17.882Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:07:57.091Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:07:57.094Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:10:24.579Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:10:24.579Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:11:21.374Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:11:21.374Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:18:18.896Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:18:18.896Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:19:49.082Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:19:49.083Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:20:41.687Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:20:41.688Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:21:20.620Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:21:20.621Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:23:48.052Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:23:48.052Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:25:17.838Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:25:17.838Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:51:44.303Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:51:44.307Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:53:37.990Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:53:37.990Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:56:41.171Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:56:41.171Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:58:32.906Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T15:58:32.907Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:04:01.945Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:04:01.945Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:06:15.420Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:06:15.420Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:11:04.572Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:11:04.573Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:12:15.179Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:12:15.180Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:17:45.728Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T16:17:45.751Z - debug: result true
+2018-06-17T16:18:12.081Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:18:12.081Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:18:26.877Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T16:18:26.882Z - debug: result true
+2018-06-17T16:19:20.851Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:19:20.852Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:19:36.032Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T16:19:36.037Z - debug: result true
+2018-06-17T16:19:49.861Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:19:49.861Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:20:10.729Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T16:20:10.734Z - debug: result true
+2018-06-17T16:21:23.448Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:21:23.448Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:22:00.221Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T16:22:00.225Z - debug: result true
+2018-06-17T16:23:18.991Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:23:18.991Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:23:42.805Z - debug: Method validateToken args ["hi","23bef0def4a8afe948fff8427",null]
+2018-06-17T16:23:42.809Z - debug: result true
+2018-06-17T16:24:05.012Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
+2018-06-17T16:24:05.012Z - error: Server error Error: read ECONNRESET
+    at TCP.onread (net.js:659:25)
